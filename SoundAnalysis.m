@@ -2,7 +2,7 @@ clc;
 close all;
 clear all;
 
-addpath('long', 'Functions');%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+addpath('Functions');
 
 %% PARAMETERS
 f1=10^2;
