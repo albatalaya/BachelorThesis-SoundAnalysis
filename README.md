@@ -15,3 +15,6 @@ https://www.youtube.com/watch?v=WKyUsdZbQ0Y
 ### MORE REPOSITORIES
 https://github.com/albatalaya/BachelorThesis-Frontend<br/>
 https://github.com/albatalaya/BachelorThesis-Backend
+
+### WRITTEN DOCUMENT
+The Written document with the final report of my Bachelor Thesis, can be found inside this folder with the name "Bachelor Thesis - Alba Talaya Vidal.pdf".
